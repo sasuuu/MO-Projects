@@ -1,0 +1,7 @@
+plot 'lab08double.dat' using 1:2 with lines title 'centralnaw' ,\
+'lab08double.dat' using 1:3 with lines title 'progresywnaw' ,\   
+'lab08double.dat' using 1:4 with lines title 'wstecznaw',\       
+'lab08double.dat' using 1:5 with lines title 'progresywnap',\    
+'lab08double.dat' using 1:6 with lines title 'progresywna3p',\   
+'lab08double.dat' using 1:7 with lines title 'wstecznak',\       
+'lab08double.dat' using 1:8 with lines title 'wsteczna3k'

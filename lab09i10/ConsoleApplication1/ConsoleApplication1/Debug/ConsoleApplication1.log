@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(144): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(145): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(146): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(147): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(148): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(149): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(154): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(155): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(157): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab09i10\consoleapplication1\consoleapplication1\consoleapplication1.cpp(158): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> E:\studia\Metody_obliczeniowe\labc++\lab09i10\ConsoleApplication1\Debug\ConsoleApplication1.exe

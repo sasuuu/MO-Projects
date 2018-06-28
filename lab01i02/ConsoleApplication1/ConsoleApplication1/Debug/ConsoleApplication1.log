@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+e:\studia\metody_obliczeniowe\labc++\lab01i02\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+e:\studia\metody_obliczeniowe\labc++\lab01i02\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> E:\studia\Metody_obliczeniowe\labc++\lab01i02\ConsoleApplication1\Debug\ConsoleApplication1.exe

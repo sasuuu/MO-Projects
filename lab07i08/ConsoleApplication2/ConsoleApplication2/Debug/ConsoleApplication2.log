@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+e:\studia\metody_obliczeniowe\labc++\lab07i08\consoleapplication2\consoleapplication2\consoleapplication2.cpp(26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  e:\studia\metody_obliczeniowe\labc++\lab07i08\consoleapplication2\consoleapplication2\consoleapplication2.cpp(89): note: zobacz odwołanie do funkcji szablon; wystąpienie „void fun<float>(std::ofstream *)” jest kompilowane
+e:\studia\metody_obliczeniowe\labc++\lab07i08\consoleapplication2\consoleapplication2\consoleapplication2.cpp(19): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  e:\studia\metody_obliczeniowe\labc++\lab07i08\consoleapplication2\consoleapplication2\consoleapplication2.cpp(44): note: zobacz odwołanie do funkcji szablon; wystąpienie „T funkcjapochodna<T>(T)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+  e:\studia\metody_obliczeniowe\labc++\lab07i08\consoleapplication2\consoleapplication2\consoleapplication2.cpp(89): note: zobacz odwołanie do funkcji szablon; wystąpienie „void fun<float>(std::ofstream *)” jest kompilowane
+  ConsoleApplication2.vcxproj -> E:\studia\Metody_obliczeniowe\labc++\lab07i08\ConsoleApplication2\Debug\ConsoleApplication2.exe
